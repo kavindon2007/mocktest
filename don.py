@@ -1,2 +1,3 @@
-print("don")
-print("This is also a change")
+print("Hello there!")
+print("Welcome to the program.")
+print("It is great to see you today!")
